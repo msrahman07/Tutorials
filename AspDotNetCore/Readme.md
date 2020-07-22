@@ -11,4 +11,4 @@ Creating certificate commands after creating https.config
 
 Application:
 1. Created certificate for local development
-2. 
+2. LINQ query
